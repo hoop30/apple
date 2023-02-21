@@ -1,0 +1,452 @@
+{
+    "Store": {
+        "path": "#",
+        "Acheter": {
+            "Tout derniers produits": {
+                "path": "#"
+            },
+            "Mac": {
+                "path": "#"
+            },
+            "Ipad": {
+                "path": "#"
+            },
+            "Iphone": {
+                "path": "#"
+            },
+            "Apple Watch": {
+                "path": "#"
+            },
+            "Accessoires": {
+                "path": "#"
+            }
+        },
+        "Liens Rapide": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Acheter - Programmes spéciaux": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "Mac": {
+        "path": "#",
+        "Univers Mac": {
+            "MacBook Air": {
+                "path": "#"
+            },
+            "MacBook Pro": {
+                "path": "#"
+            },
+            "IMac": {
+                "path": "#"
+            },
+            "Mac mini": {
+                "path": "#"
+            },
+            "Mac Studio": {
+                "path": "#"
+            },
+            "Mac Pro": {
+                "path": "#"
+            }
+        },
+        "Acheter Mac": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Autour du Mac": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "iPad": {
+        "path": "#",
+        "Acheter": {
+            "Tout derniers produits": {
+                "path": "#"
+            },
+            "Mac": {
+                "path": "#"
+            },
+            "Ipad": {
+                "path": "#"
+            },
+            "Iphone": {
+                "path": "#"
+            },
+            "Apple Watch": {
+                "path": "#"
+            },
+            "Accessoires": {
+                "path": "#"
+            }
+        },
+        "Liens Rapide": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Acheter - Programmes spéciaux": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "iPhone": {
+        "path": "#",
+        "Univers Mac": {
+            "MacBook Air": {
+                "path": "#"
+            },
+            "MacBook Pro": {
+                "path": "#"
+            },
+            "IMac": {
+                "path": "#"
+            },
+            "Mac mini": {
+                "path": "#"
+            },
+            "Mac Studio": {
+                "path": "#"
+            },
+            "Mac Pro": {
+                "path": "#"
+            }
+        },
+        "Acheter Mac": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Autour du Mac": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "Watch": {
+        "path": "#",
+        "Acheter": {
+            "Tout derniers produits": {
+                "path": "#"
+            },
+            "Mac": {
+                "path": "#"
+            },
+            "Ipad": {
+                "path": "#"
+            },
+            "Iphone": {
+                "path": "#"
+            },
+            "Apple Watch": {
+                "path": "#"
+            },
+            "Accessoires": {
+                "path": "#"
+            }
+        },
+        "Liens Rapide": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Acheter - Programmes spéciaux": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "AirPods": {
+        "path": "#",
+        "Univers Mac": {
+            "MacBook Air": {
+                "path": "#"
+            },
+            "MacBook Pro": {
+                "path": "#"
+            },
+            "IMac": {
+                "path": "#"
+            },
+            "Mac mini": {
+                "path": "#"
+            },
+            "Mac Studio": {
+                "path": "#"
+            },
+            "Mac Pro": {
+                "path": "#"
+            }
+        },
+        "Acheter Mac": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Autour du Mac": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "TV & Maison": {
+        "path": "#",
+        "Acheter": {
+            "Tout derniers produits": {
+                "path": "#"
+            },
+            "Mac": {
+                "path": "#"
+            },
+            "Ipad": {
+                "path": "#"
+            },
+            "Iphone": {
+                "path": "#"
+            },
+            "Apple Watch": {
+                "path": "#"
+            },
+            "Accessoires": {
+                "path": "#"
+            }
+        },
+        "Liens Rapide": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Acheter - Programmes spéciaux": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "Divertissement": {
+        "path": "#",
+        "Univers Mac": {
+            "MacBook Air": {
+                "path": "#"
+            },
+            "MacBook Pro": {
+                "path": "#"
+            },
+            "IMac": {
+                "path": "#"
+            },
+            "Mac mini": {
+                "path": "#"
+            },
+            "Mac Studio": {
+                "path": "#"
+            },
+            "Mac Pro": {
+                "path": "#"
+            }
+        },
+        "Acheter Mac": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Autour du Mac": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "Accessoires": {
+        "path": "#",
+        "Acheter": {
+            "Tout derniers produits": {
+                "path": "#"
+            },
+            "Mac": {
+                "path": "#"
+            },
+            "Ipad": {
+                "path": "#"
+            },
+            "Iphone": {
+                "path": "#"
+            },
+            "Apple Watch": {
+                "path": "#"
+            },
+            "Accessoires": {
+                "path": "#"
+            }
+        },
+        "Liens Rapide": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Acheter - Programmes spéciaux": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    },
+    "Assistance": {
+        "path": "#",
+        "Univers Mac": {
+            "MacBook Air": {
+                "path": "#"
+            },
+            "MacBook Pro": {
+                "path": "#"
+            },
+            "IMac": {
+                "path": "#"
+            },
+            "Mac mini": {
+                "path": "#"
+            },
+            "Mac Studio": {
+                "path": "#"
+            },
+            "Mac Pro": {
+                "path": "#"
+            }
+        },
+        "Acheter Mac": {
+            "Trouver un magasin": {
+                "path": "#"
+            },
+            "État de votre commande": {
+                "path": "#"
+            },
+            "Apple Trade In": {
+                "path": "#"
+            }
+        },
+        "Autour du Mac": {
+            "Produits reconditionnés": {
+                "path": "#"
+            },
+            "Éducation": {
+                "path": "#"
+            },
+            "Entreprise": {
+                "path": "#"
+            }
+        }
+    }
+}

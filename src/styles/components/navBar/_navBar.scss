@@ -1,0 +1,25 @@
+.nav-bar {
+    max-width: 980px;
+    width: 100%;
+    padding: 10px 0;
+    
+    .nav-list {
+        position: relative;
+        z-index: 100;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        li {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'SF Pro Text Regular';
+            font-size: 12px;
+            
+            a {
+                color: var(--black80);
+            }
+        }
+    }
+}

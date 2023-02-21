@@ -1,0 +1,17 @@
+// colors
+
+:root {
+    --black: #000;
+    --black80: rgba(255, 255, 255, 0.8);
+    --white: #F5F5F7;
+    --grey: #161617;
+    --greyText: #86868b;
+}
+
+// fonts
+
+@font-face { font-family: "SF Pro Display regular"; src: local("SF-Pro-Display-Regular"), url(../fonts/SF-Pro-Display-Regular.otf) format("opentype");}
+@font-face { font-family: "SF Pro Display semiBolt"; src: local("SF-Pro-Display-Semibold"), url(../fonts/SF-Pro-Display-Semibold.otf) format("opentype");}
+
+@font-face { font-family: "SF Pro Text regular"; src: local("SF-Pro-Text-Regular"), url(../fonts/SF-Pro-Text-Regular.otf) format("opentype"); }
+@font-face { font-family: "SF Pro Text semiBolt"; src: local("SF-Pro-Text-Semibold"), url(../fonts/SF-Pro-Text-Semibold.otf) format("opentype");}

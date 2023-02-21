@@ -1,0 +1,47 @@
+.expand-nav-bar {
+    z-index: 50;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: fit-content;
+    padding-top: 85px;
+    padding-bottom: 70px;
+    background: var(--grey);
+    display: flex;
+    justify-content: center;
+    align-items: end;
+
+    .content {
+        width: 100%;
+        max-width: 980px;
+        display: flex;
+        gap: 70px;
+
+        h2 {
+            font-size: 12px;
+            color: var(--greyText);
+            font-family: "SF Pro Text regular";
+            margin-bottom: 20px;
+            font-weight: 400;
+        }
+
+        ul {
+            display: flex;
+            flex-direction: column;
+            font-family: "SF Pro Text semiBolt";
+            font-size: 12px;
+            gap: 8px;
+        }
+
+        .list:first-child {
+            li {
+                font-size: 24px;
+                font-family: "SF Pro Display semiBolt";
+            }
+
+            ul {
+                gap: 8px;
+            }
+        }
+    }
+}
